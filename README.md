@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/TUDelft-CITG/BE-notebooks/blob/master/LICENSE.txt)
+
 # Building Engineering / Notebooks
 
 This repository will be used to supply students with some example Jupyter(lab) Notebook calculations to get them started with programming in Python using Jupyter(lab).
