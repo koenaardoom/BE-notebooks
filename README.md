@@ -5,7 +5,7 @@
 This repository will be used to supply students with some example Jupyter(lab) Notebook calculations to get them started with programming in Python using Jupyter(lab), and to share student work with each other.
 
 
-## Example notebooks (by @marcoschuurman)
+## Example notebooks (by [Marco Schuurman](https://github.com/marcoschuurman)
 
 The example notebooks are stored in the folder "example-notebooks". Currently available examples:
 * **HIVOSS_floor_vibration.ipynb** - Example for calculating the natural frequency of a simply supported beam
@@ -16,4 +16,4 @@ The example notebooks are stored in the folder "example-notebooks". Currently av
 ## Student work
 
 Student work is stored in the folder "students". Currently available:
-* **4pile pile cap optimization (2020 @frisovansprengler)
+* **4pile pile cap optimization** - Eurocode calculation for concrete 4p pile caps, with optimization routines for cost and sustainability (2020 [Friso van Spengler](https://github.com/Frisovanspengler))
