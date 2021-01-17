@@ -16,4 +16,9 @@ The example notebooks are stored in the folder "example-notebooks". Currently av
 ## Student work
 
 Student work is stored in the folder "students". Currently available:
-* **4pile pile cap optimization** - Eurocode calculation for concrete 4p pile caps, with optimization routines for cost and sustainability (2020 [Friso van Spengler](https://github.com/Frisovanspengler))
+* Bachelor End Projects
+  * **4pile pile cap optimization** - Eurocode calculation for concrete 4p pile caps, with optimization routines for cost and sustainability (2020 [Friso van Spengler](https://github.com/Frisovanspengler))
+
+## External (Github) links
+* Master theses:
+  * **[StructuralComponents 8 (Force flow design tool)](https://github.com/FlorisWL/Graduation-BE)** - A Grasshopper-based force flow design tool for conceptual structural design, applying the principles of 2D Graphic Statics to solve forces graphically, and display the force distribution intuitively (2021 [Floris Bruinsma](https://github.com/FlorisWL))
