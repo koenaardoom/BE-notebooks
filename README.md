@@ -18,6 +18,7 @@ The example notebooks are stored in the folder "example-notebooks". Currently av
 Student work is stored in the folder "students". Currently available:
 * Bachelor End Projects
   * **4pile pile cap optimization** - Eurocode calculation for concrete 4p pile caps, with optimization routines for cost and sustainability (2020 [Friso van Spengler](https://github.com/Frisovanspengler))
+  *  **Design tool for vibration nuisance** - 1-spring-mass-system design tool to calculate the response of a mass to a harmonic base excitation, and compare vibration speeds to nuisance target values according to Dutch SBR Guideline B (2020 Jippe van Daalen)
 
 ## External (Github) links
 * Master theses:
